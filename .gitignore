@@ -1,0 +1,23 @@
+ 
+# Flutter/Dart
+*.g.dart
+*.freezed.dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+ios/Flutter/flutter_export_environment.sh
+ios/Runner.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcshareddata/
+android/.gradle/
+android/app/build/
+android/build/
+
+# General
+.DS_Store
+*.log
+*.idea/
+*.vscode/
